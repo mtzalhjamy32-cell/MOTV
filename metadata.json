@@ -1,0 +1,7 @@
+{
+  "name": "OmniPlayer - مشغل الفيديو الشامل",
+  "description": "تطبيق مشغل فيديو متطور يدعم جميع الصيغ (MP4, M3U8, TS, والمزيد) مع تشغيل روابط البث وقوائم التشغيل M3U واستقبال الروابط من التطبيقات الخارجية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
